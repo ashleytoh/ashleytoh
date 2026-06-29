@@ -19,7 +19,3 @@ I am a Data Science & Analytics student at NUS working on retrieval systems, mul
 | [`phish-n-cheats`](https://github.com/ashleytoh/phish-n-cheats) | Marketplace scam-awareness simulation with planted listings, seller chats, scoring, reports, and trust-and-safety analytics. | TypeScript, React, Express, LLM-backed simulation |
 | [`shakespeare_lstm_transformer`](https://github.com/ashleytoh/shakespeare_lstm_transformer) | Character-level language modelling study comparing LSTM and Transformer architectures on Shakespeare. | PyTorch, LSTM, Transformer, ablations |
 | [`memory-garden`](https://github.com/ashleytoh/memory-garden) | Local-first interface for reviewing and editing assistant memory files through a visual garden metaphor. | TypeScript, React, Vite, File System Access API |
-
-## How I document projects
-
-I try to make each repository answer three questions quickly: what problem it solves, how the system is structured, and how to run or inspect the result.
