@@ -1,6 +1,6 @@
 # Ashley Toh
 
-I am a Data Science & Analytics student at NUS working on retrieval systems, multi-agent workflows, and ML/DL projects that are easy to inspect and reproduce.
+Hello! I'm a NUS Data Science and Analytics graudate, and I focus on retrieval systems, RAG pipelines, multi-agent workflows, and ML/DL.
 
 ## Current focus
 
